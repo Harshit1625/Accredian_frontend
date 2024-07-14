@@ -1,0 +1,37 @@
+[
+    {
+        "program" : "Professional Certificate Program in Product Management",
+        "referrer" : "Rs.7000",
+        "referee" : "Rs.9000"
+    },
+    {
+        "program" : "PG Certificate Program in Strategic Product Management",
+        "referrer" : "Rs.9000",
+        "referee" : "Rs.11000"
+    },
+    {
+        "program" : "Executive Program in Data Driven Product Management",
+        "referrer" : "Rs.10000",
+        "referee" : "Rs.10000"
+    },
+    {
+        "program" : "Executive Program in Product Management and Digital Transformation",
+        "referrer" : "Rs.12000",
+        "referee" : "Rs.10000"
+    },
+    {
+        "program" : "Executive Program in Product Management",
+        "referrer" : "Rs.8000",
+        "referee" : "Rs.11000"
+    },
+    {
+        "program" : "Advance Certification in Product Management",
+        "referrer" : "Rs.7000",
+        "referee" : "Rs.10000"
+    },
+    {
+        "program" : "Executive Program in Product Management and Project Management",
+        "referrer" : "Rs.9000",
+        "referee" : "Rs.8000"
+    }
+]
