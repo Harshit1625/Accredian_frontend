@@ -20,7 +20,7 @@ const HeroSection = () => {
         <div>
           <img
             className="h-[120px] sm:h-[19vh] sm:w-[30vw] md:h-[20vh] md:w-[40vw] w-[70vw] lg:h-[45vh] xl:h-[51vh] lg:w-[50vw]"
-            src="/src/svgs/HeroSection.svg"
+            src="/HeroSection.svg"
           />
         </div>
       </div>

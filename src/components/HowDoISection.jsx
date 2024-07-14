@@ -11,7 +11,7 @@ const HowDoISection = () => {
 
       </div>
         {/* image */}
-      <img className="lg:h-[55vh] " src="/src/svgs/HowDoI.svg" />
+      <img className="lg:h-[55vh] " src="/HowDoI.svg" />
 
       {/* absolute images */}
       <div className="absolute flex flex-col items-center lg:top-[220px] xl:top-[210px] top-[102px] sm:top-[140px] md:top-[170px] left-[14vw]  gap-3 lg:gap-4 w-[12vw] lg:w-[11vw] lg:left-[14vw] xl:left-[19vw] text-center ">

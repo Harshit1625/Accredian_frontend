@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="flex justify-between p-4">
     {/* logo */}
       <div className="logo">
-      <img src="/src/svgs/Navbar.svg"/>
+      <img src="/Navbar.svg"/>
       </div>
 
       {/* //options */}

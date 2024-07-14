@@ -29,7 +29,7 @@ const BenefitsSection = () => {
                   <span>
                     <img
                       className="h-[15px]"
-                      src="/src/svgs/BenefitSection.svg"
+                      src="/BenefitSection.svg"
                     />
                   </span>
                   <p>{data.program}</p>

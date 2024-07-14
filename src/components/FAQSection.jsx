@@ -23,7 +23,7 @@ const FAQSection = () => {
       </div>
 
       {/* svg */}
-      <img className="lg:h-[20vh]  mt-9 h-[5vh] lg:w-[50vw]" src="/src/svgs/FAQ.svg"/>
+      <img className="lg:h-[20vh]  mt-9 h-[5vh] lg:w-[50vw]" src="/FAQ.svg"/>
     </div>
   );
 };
